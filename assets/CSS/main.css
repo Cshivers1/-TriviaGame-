@@ -1,0 +1,44 @@
+body {
+    background-image:url("../IMG/triva gif.gif");
+    background-size: 99%;
+    /* background-repeat: no-repeat; */
+    min-width: 1000px;
+    max-width: 5000px;
+    background-repeat: repeat;
+    justify-content: center;
+    height: 80%;
+    
+}
+
+.head{
+    background-image: url("../IMG/IMG_3359.jpg") -4px;
+    background-repeat: round;
+    color:white;
+    border: 5px 5px 5px solid white;
+    border-style: inset;
+    border-bottom-color: white;
+    min-width: 1000px;
+    max-width: 5000px;
+    color: lightskyblue;
+    text-shadow: 2px 2px white;
+    text-align: center;
+    font: bolder;
+    font-size: 50px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+
+
+}
+
+.Triva {
+
+    text-align: center;
+    font-size: 40px;
+    text-shadow: 1px 1px white;
+    color: lightskyblue;
+
+}
+
+body {
+    text-align: center;
+}
